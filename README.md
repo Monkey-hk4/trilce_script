@@ -1,6 +1,6 @@
 # trilce_script
-Script que programé para verificar cuentas del colegio trilce.
-<h3> KUAKER </h3>
+Script que programé para verificar cuentas del colegio trilce
+<h3> https://www.youtube.com/watch?v=lRSEhmfraDE&t=138s </h3>
 <br/>
 </br>
 <p align="center">
